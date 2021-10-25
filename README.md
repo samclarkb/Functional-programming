@@ -2,16 +2,16 @@
 
 Hier omschrijf ik mijn proces per dag. Gedurende zes weken zal ik ook van iedere week een korte samenvatting geven van wat ik die week heb gedaan/geleerd.
 
-**- dag 1 (25-10-21):**
+- dag 1 (25-10-21):
 Introductie van de seminar en kennis gemaakt met mijn supportgroep.
 
-**- dag 2 (26-10-21):**
+- dag 2 (26-10-21):
 
-**- dag 3 (27-10-21):**
+- dag 3 (27-10-21):
 
-**- dag 4 (28-10-21):**
+- dag 4 (28-10-21):
 
-**- dag 5 (29-10-21):**
+- dag 5 (29-10-21):
 
 **- week 1 recap (26-10-21 t/m 29-10-21) :**
 

@@ -6,6 +6,7 @@ Hier omschrijf ik mijn proces per dag. Gedurende zes weken zal ik ook van iedere
 Introductie van de seminar en kennis gemaakt met mijn supportgroep.
 
 - dag 2 (26-10-21):
+We zijn de dag begonnen met een korte recap van Blok tech. Hierin werden de voldende zaken behandeld: Node.js, Terminal, Npm, Javascript. Hierna ben ik samen met een deel van mijn support groep gaan zitten en hebben we de Json file ingeladen. Hierna zijn we gaan kijken naar manieren om hoe we de dataset kunnen opschonen. Mijn doel is om de antwoorden die bestaan uit meerde antwoorden, op te schonen. Dit wil ik doen door de antwoorden in een array te zetten. Na wat research lijkt split() de beste manier te zijn. Het lukt me nog niet om de functie toe te passen op één speciefieke vraag die meerdere keren terugkomt. 
 
 - dag 3 (27-10-21):
 

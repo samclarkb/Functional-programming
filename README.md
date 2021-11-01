@@ -19,6 +19,7 @@
 ## :mag_right: Recources
 
 ## :bookmark: license 
+Copyright (c) 2021 Sam Clark Boot, MIT
 
 
 

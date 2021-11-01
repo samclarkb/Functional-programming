@@ -9,10 +9,12 @@
 * [License](https://github.com/samclarkb/Functional-programming#bookmark-license)
 
 ## :books: Assessment
+This course (2 weeks) is all about functional programming in Javascript. I'm learning how to clean a dataset with Javascript. This is also the first time I'm writing a README and fetching data from an external API.
 
 ## :bulb: Concept
 
 ## :memo: Wishlist
+There are a few things I had planned to do 
 
 ## :wrench: Installation
 

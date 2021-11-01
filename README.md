@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Assesment](https://github.com/samclarkb/Functional-programming#books-assessment)
 * [Concept](https://github.com/samclarkb/Functional-programming#bulb-concept)
+* [Proces (wiki)](https://github.com/samclarkb/Functional-programming#bulb-concept)
 * [Wishlist](https://github.com/samclarkb/Functional-programming#memo-wishlist)
 * [Installation](https://github.com/samclarkb/Functional-programming#wrench-installation)
 * [Recources](https://github.com/samclarkb/Functional-programming#mag_right-recources)
@@ -15,6 +16,9 @@ This course (2 weeks) is all about functional programming in Javascript. I'm lea
 As i said, during these two weeks the most important thing for me is learning more about Javascript and getting used to working with Github. So don't expect to much from my product/app.
 
 Despite my lack of experience and knowledge about Javascript, I still managed to work something out.
+
+## :bulb: Proces (Wiki)
+If you are interested in what I 
 
 ## :memo: Wishlist
 There are a few things I didn't get done due to lack of time:

@@ -25,6 +25,7 @@ There are a few things I didn't get done due to lack of time:
 * Experimenting with Writing more functions for cleaning data 
 * Experimenting with the _Issues_ on Github
 * dive into the phenomene _promise_ in Javascript
+* Understanding _branches_ within Github
 
 ## :wrench: Installation
 

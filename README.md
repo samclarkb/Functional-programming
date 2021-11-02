@@ -40,6 +40,8 @@ I've searched for a good amount of additional information about Javascript. I've
 * developer.mozilla.org. (z.d.). Loops and iteration. Geraadpleegd op 2 november 2021, van https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
 * Banz, M. (2017). An introduction to functional programming in JavaScript. An introduction to functional programming in JavaScript. Published. https://opensource.com/article/17/6/functional-javascript
 * Last.fm. (z.d.). Last.fm Music Discovery API. Geraadpleegd op 2 november 2021, van https://www.last.fm/api#getting-started
+* developer.mozilla.org. (2021). Promise. Promise. Published.
+* freecodecamp.org. (2018, 17 april). ESLint Quickstart - find errors automatically [Video]. YouTube. https://www.youtube.com/watch?v=qhuFviJn-es
 
 ## :bookmark: license 
 Copyright (c) 2021 Sam Clark Boot, [MIT](https://github.com/samclarkb/Functional-programming#bookmark-license)

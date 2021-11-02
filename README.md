@@ -34,7 +34,7 @@ I've searched for a good amount of additional information about Javascript. I've
 *
 
 ## :bookmark: license 
-Copyright (c) 2021 Sam Clark Boot, MIT
+Copyright (c) 2021 Sam Clark Boot, [MIT](https://github.com/samclarkb/Functional-programming#bookmark-license)
 
 
 

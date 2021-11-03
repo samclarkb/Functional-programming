@@ -4,31 +4,49 @@ const dataOphalen = () => {
 	) // Dit is de link van de API
 		.then(response => response.json())
 		.then(data => {
-			console.log(data)
-			aantalKeerBeluisterd(data)
-			aantaLuisteraars(data)
+			// aantalKeerBeluisterd(data)
+			// aantaLuisteraars(data)
 			gemiddelde(data)
+			sorteren(data)
+			printen(data)
 		})
 		.catch(err => {
 			console.error(err) // mocht er iets niet kloppen catched de function een error
 		})
 }
 
-const aantalKeerBeluisterd = data => {
-	data.artists.artist.forEach(data => {
-		console.log(`${data.name}, aantal keer beluisterd: ${data.playcount}`)
-	})
-}
+// const aantalKeerBeluisterd = data => {
+// 	data.artists.artist.forEach(data => {
+// 		// Ik loop hiermee door de 'artist' array
+// 		console.log(`${data.name}, aantal keer beluisterd: ${data.playcount}`) // playcount is een key in het object die laat zien hoeveel aantal keer een artiest beluisterd is
+// 	})
+// }
 
-const aantaLuisteraars = data => {
-	data.artists.artist.forEach(data => {
-		console.log(`${data.name}, aantal luisteraars: ${data.listeners}`)
-	})
-}
+// const aantaLuisteraars = data => {
+// 	data.artists.artist.forEach(data => {
+// 		// Ik loop hiermee door de 'artist' array
+// 		console.log(`${data.name}, aantal luisteraars: ${data.listeners}`) // listeners is een key in het object die weergeeft hoeveel aantal verschillende luisteraars de specifieke artiest heeft
+// 	})
+// }
 
 const gemiddelde = data => {
 	data.artists.artist.forEach(data => {
-		console.log(`${data.name}, Gemiddelde: ${data.playcount / data.listeners}`)
+		data.average = data.playcount / data.listeners
+		// Ik deel hier het totale aantal streams door het totaal aantal verschillende listeners, zodat ik het gemiddelde aantal nummers per luisteraar krijg
+	})
+}
+
+const sorteren = data => {
+	data.artists.artist.sort((a, b) => b.average - a.average)
+}
+
+const printen = data => {
+	data.artists.artist.forEach(data => {
+		console.log(
+			`De gemiddelde ${data.name} luisteraar heeft naar ${Math.round(
+				data.average
+			)} nummers geluisterd van ${data.name}`
+		)
 	})
 }
 

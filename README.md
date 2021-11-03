@@ -12,6 +12,8 @@
 ## :books: Assessment
 This course (2 weeks) is all about functional programming in Javascript. I'm learning how to clean a dataset with Javascript. I'm very new to writing code, especially with Javascript. For example, this is the first time I'm writing a README and fetching data from an external API. So it's more like a learning proces than that it is a usable product/app.
 
+<img width="803" alt="Schermafbeelding 2021-11-03 om 18 21 27" src="https://user-images.githubusercontent.com/74268703/140147747-af51f12e-7e85-4d49-98b6-fd4a6f434d24.png">
+
 ## :bulb: Concept
 <img width="1111" alt="codeExample" src="https://user-images.githubusercontent.com/74268703/140100001-2b16e457-f64b-43e5-a88b-23d0e5b01c10.png">
 

@@ -26,6 +26,7 @@ There are a few things I didn't get done due to lack of time:
 * Experimenting with the _Issues_ on Github
 * dive into the phenomene _promise_ in Javascript
 * Understanding _branches_ within Github
+* Putting indiviual functions in modules
 
 ## :wrench: Installation
 If you want to use this code, you can clone my repository with the following command:

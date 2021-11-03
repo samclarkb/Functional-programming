@@ -4,8 +4,6 @@ const dataOphalen = () => {
 	) // Dit is de link van de API
 		.then(response => response.json())
 		.then(data => {
-			// aantalKeerBeluisterd(data)
-			// aantaLuisteraars(data)
 			gemiddelde(data)
 			sorteren(data)
 			printen(data)
@@ -15,20 +13,6 @@ const dataOphalen = () => {
 		})
 }
 
-// const aantalKeerBeluisterd = data => {
-// 	data.artists.artist.forEach(data => {
-// 		// Ik loop hiermee door de 'artist' array
-// 		console.log(`${data.name}, aantal keer beluisterd: ${data.playcount}`) // playcount is een key in het object die laat zien hoeveel aantal keer een artiest beluisterd is
-// 	})
-// }
-
-// const aantaLuisteraars = data => {
-// 	data.artists.artist.forEach(data => {
-// 		// Ik loop hiermee door de 'artist' array
-// 		console.log(`${data.name}, aantal luisteraars: ${data.listeners}`) // listeners is een key in het object die weergeeft hoeveel aantal verschillende luisteraars de specifieke artiest heeft
-// 	})
-// }
-
 const gemiddelde = data => {
 	data.artists.artist.forEach(data => {
 		data.average = data.playcount / data.listeners
@@ -37,7 +21,8 @@ const gemiddelde = data => {
 }
 
 const sorteren = data => {
-	data.artists.artist.sort((a, b) => b.average - a.average)
+	// functie voor het
+	data.artists.artist.sort((a, b) => b.average - a.average) // ik doe zet b voor a, omdat ik het hoogste cijfer bovenaan de lijst wil hebben.
 }
 
 const printen = data => {

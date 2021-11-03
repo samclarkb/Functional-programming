@@ -15,9 +15,9 @@ This course (2 weeks) is all about functional programming in Javascript. I'm lea
 ## :bulb: Concept
 <img width="1111" alt="codeExample" src="https://user-images.githubusercontent.com/74268703/140100001-2b16e457-f64b-43e5-a88b-23d0e5b01c10.png">
 
-As i said, during these two weeks the most important thing for me is learning more about Javascript and getting used to working with Github. So don't expect to much from my product/app.
+As i said, during these two weeks the most important thing for me is learning more about Javascript and getting used to working with Github. Despite my lack of experience and knowledge about Javascript, I still managed to work something out. 
 
-Despite my lack of experience and knowledge about Javascript, I still managed to work something out.
+I'm fetching data from the Last.fm API, Last.fm is an music streaming service. I'm using this API to retrieve certain data from music artists. with the code that I wrote I can see which artists have the most dedicated fans. The goal of this course is understanding functional programming. So I tried to wrote the code as functional as posible.
 
 ## :bulb: Proces (Wiki)
 Click [here](https://github.com/samclarkb/Functional-programming/wiki/Logboek-Functional-Programming) for a more detailed overview about my working proces. 

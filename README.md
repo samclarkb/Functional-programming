@@ -13,6 +13,8 @@
 This course (2 weeks) is all about functional programming in Javascript. I'm learning how to clean a dataset with Javascript. I'm very new to writing code, especially with Javascript. For example, this is the first time I'm writing a README and fetching data from an external API. So it's more like a learning proces than that it is a usable product/app.
 
 ## :bulb: Concept
+<img width="1111" alt="codeExample" src="https://user-images.githubusercontent.com/74268703/140100001-2b16e457-f64b-43e5-a88b-23d0e5b01c10.png">
+
 As i said, during these two weeks the most important thing for me is learning more about Javascript and getting used to working with Github. So don't expect to much from my product/app.
 
 Despite my lack of experience and knowledge about Javascript, I still managed to work something out.

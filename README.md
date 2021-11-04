@@ -28,8 +28,7 @@ Click [here](https://github.com/samclarkb/Functional-programming/wiki/Logboek-Fu
 There are a few things I didn't get done due to lack of time:
 * Experimenting with Writing more functions for cleaning data 
 * Experimenting with the _Issues_ on Github
-* dive into the phenomene _promise_ in Javascript
-* Understanding _branches_ within Github
+* dive deeper into the phenomene _promise_ in Javascript
 * Putting indiviual functions in modules
 
 ## :wrench: Installation
